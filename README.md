@@ -46,8 +46,8 @@
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/black-dashboard-flask.git
-$ cd black-dashboard-flask
+$ git clone https://github.com/AvilashBhowmick12/test-case.git
+$ cd test-case
 ```
 
 > Start the app in Docker
@@ -256,9 +256,8 @@ At present, we officially aim to support the last two versions of the following 
 - Demo: <https://www.creative-tim.com/live/black-dashboard-flask>
 - Download Page: <https://www.creative-tim.com/product/black-dashboard-flask>
 - Documentation: <https://demos.creative-tim.com/black-dashboard-flask/docs/1.0/getting-started/getting-started-flask.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/black-dashboard-flask/issues)
+- License Agreement: <https://www.tiny.cc/Avilash_DesktopPortfolio/license>
+- Issues: [Github Issues Page](https://www.github.com/AvilashBhowmick12)
 
 <br />
 
@@ -274,32 +273,9 @@ We use GitHub Issues as the official bug tracker for the **Black Dashboard Flask
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.github.com/AvilashBhowmick12) instead of opening an issue.
 
 <br />
-
-## Licensing
-
-- Copyright 2019 - present [Creative Tim](https://www.creative-tim.com/)
-- Licensed under [Creative Tim EULA](https://www.creative-tim.com/license)
-
-<br />
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-
-<br />
-
-## Social Media
-
-- Twitter: <https://twitter.com/CreativeTim>
-- Facebook: <https://www.facebook.com/CreativeTim>
-- Dribbble: <https://dribbble.com/creativetim>
-- Instagram: <https://www.instagram.com/CreativeTimOfficial>
 
 <br />
 
